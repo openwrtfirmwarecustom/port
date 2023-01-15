@@ -47,6 +47,7 @@ require (
 	github.com/onsi/ginkgo/v2 v2.6.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/riobard/go-bloom v0.0.0-20200614022211-cdc8013cb5b3 // indirect
+	github.com/openwrtfirmwarecustom/websocket v0.0.0-20230114234321-d6e67a31baba // indirect
 	go.uber.org/atomic v1.10.0 // indirect
 	golang.org/x/exp v0.0.0-20230105202349-8879d0199aa3 // indirect
 	golang.org/x/mod v0.7.0 // indirect
